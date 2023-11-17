@@ -1,3 +1,3 @@
 # markup-02
 
-Continue learning HTML
+Continue learning HTML and start learning CSS
