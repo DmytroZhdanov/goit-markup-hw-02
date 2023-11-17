@@ -1,1 +1,3 @@
-# goit-markup-hw-02
+# markup-02
+
+Continue learning HTML
